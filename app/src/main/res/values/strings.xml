@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">CIISA-Ebaluacion-LuisOrdenes</string>
+    <string name="titulo_registro" translatable="false">Registro</string>
+    <string name="titulo_agendar" translatable="false">Agendar</string>
+    <string name="titulo_servicios" translatable="false">Servicios</string>
+    <string name="titulo_menu" translatable="false">Menu</string>
+    <string name="titulo_miagenda" translatable="false">Mi Agenda</string>
+    <string name="user" translatable="false">Usuario</string>
+    <string name="pass" translatable="false">Contraseña</string>
+    <string name="passRepeat" translatable="false">Repetir contraseña</string>
+    <string name="btn_login" translatable="false">Iniciar Sesión</string>
+    <string name="btn_register" translatable="false">Registrarse</string>
+    <string name="btn_crear" translatable="false">Registrarse</string>
+    <string name="btn_volver" translatable="false">Volver atras</string>
+    <string name="btn_anular" translatable="false">Anular</string>
+    <string name="btn_editar" translatable="false">Editar</string>
+    <string name="recordar" translatable="false">Recordar usuario</string>
+    <string name="correo" translatable="false">Correo</string>
+    <string name="btn_servicios" translatable="false">Ver Servicios</string>
+    <string name="btn_agendarServicio" translatable="false">Agendar Servicio</string>
+    <string name="btn_miAgenda" translatable="false">Mi agenda</string>
+    <string name="direccion" translatable="false">Dirección</string>
+    <string name="fecha" translatable="false">Fecha</string>
+    <string name="hora" translatable="false">Hora</string>
+    <string name="btn_agendar" translatable="false">Agendar</string>
+    <string name="titulo_hogar" translatable="false">Hogar</string>
+    <string name="text_hogar" translatable="false">Se realiza una limpieza de aspirado de interior completo, desinfección y limpieza de muebles.</string>
+    <string name="titulo_vehiculo" translatable="false">Vehiculo</string>
+    <string name="text_vehiculo" translatable="false">Se realiza una limpieza de aspirado del vehiculo, lavado de exterior del vehiculo. Se deja el panel brilloso!</string>
+    <string name="titulo_terraza" translatable="false">Terraza</string>
+    <string name="text_terraza" translatable="false">Se realiza una limpieza con producto dependiendo del material  de la terraza, se recojen hojas y se poda el pasto.</string>
+
+    <!-- ERRORES -->
+    <string name="error_null_field">Este campo es obligatorio</string>
+    <string name="error_min_field">Minimo 6 caracteres</string>
+    <string name="error_invalidate_field">Usuario o contraseña invalido</string>
+    <string name="error_equals_field">Las contraseñas deben coincidir!</string>
+
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="servicios_array">
+        <item>Hogar</item>
+        <item>Terraza</item>
+        <item>Vehiculo</item>
+    </string-array>
+</resources>
